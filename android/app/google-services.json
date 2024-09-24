@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405561097592",
+    "project_id": "xoap-8d202",
+    "storage_bucket": "xoap-8d202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405561097592:android:feca01a013cdd708a41c8d",
+        "android_client_info": {
+          "package_name": "com.example.xoap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYzgDN2y46z2sSw80-aIXhPkJhRy1yZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
