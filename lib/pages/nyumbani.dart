@@ -83,8 +83,12 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
           ),
-          const Expanded(
-            child: ChatScreen(),
+          Expanded(
+            // Pass selectedDate and messages to ChatScreen
+            child: ChatScreen(
+              user: widget.user,
+              selectedDate: _selectedDate,
+            ),
           ),
         ],
       ),
